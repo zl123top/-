@@ -54,4 +54,6 @@ import {
 ```
 ensureListeningTo(container, 'onMouseEnter', null);
 ```
+_reactRootContainer对象有一些属性，看不出来有什么用
+
 
